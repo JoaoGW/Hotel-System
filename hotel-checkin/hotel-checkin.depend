@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1651860129 source:c:\users\joao pedro\documents\codeblocksscripts\hotel-checkin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<stdbool.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+
